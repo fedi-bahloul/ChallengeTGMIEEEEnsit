@@ -1,0 +1,49 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1F2630; /* Dark background color */
+    color: #FFFFFF; /* White text color */
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    margin: 20px 0;
+    color: #4CAF50; /* Light green header text color */
+}
+
+.tab-content {
+    padding: 20px;
+}
+
+.graph-container {
+    border: 1px solid #4CAF50; /* Light green border */
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #2C3848; /* Darker background for graphs */
+}
+
+.slider-container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.dropdown-container {
+    width: 50%;
+    margin: 10px 0;
+}
+
+.text-label {
+    color: #4CAF50; /* Light green text color for labels */
+    margin-bottom: 10px;
+}
+
+.input-field {
+    width: 10%;
+    margin: 10px 5px;
+    background-color: #2C3848; /* Darker background for input fields */
+    color: #FFFFFF; /* White text color for input fields */
+}
